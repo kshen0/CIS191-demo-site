@@ -27,7 +27,6 @@ try:
     f.close()
 
     #PORT = 8000
-    # test post receive hook
     PORT = 9001
 
     Handler = SimpleHTTPServer.SimpleHTTPRequestHandler
